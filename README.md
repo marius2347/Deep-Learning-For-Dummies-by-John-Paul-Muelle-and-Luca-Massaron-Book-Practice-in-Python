@@ -67,9 +67,8 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Created by **Marius Iacob**  
-📧 Email: mariusicob2347@gmail.com  
-🌐 Portfolio: [https://marius-portofolio.fly.dev/](https://marius-portofolio.fly.dev/)
+Created by **Marius Ciobanu**  
+📧 Email: mariusc0023@gmail.com  
 
 Feel free to reach out for collaboration or questions!
 
