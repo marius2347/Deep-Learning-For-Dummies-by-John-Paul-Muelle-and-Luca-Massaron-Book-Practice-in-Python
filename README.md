@@ -40,6 +40,18 @@ The notebook includes:
   - Loading and processing datasets.
   - Visualizing training history using matplotlib.
 
+- ✅ **Working on Language Processing**
+  - Basic NLP techniques.
+  - Text vectorization and sequence modeling.
+
+- ✅ **Building Generative Adversarial Networks**
+  - Introduction to GANs.
+  - Generator vs Discriminator architecture.
+
+- ✅ **Playing with Deep Reinforcement Learning**
+  - Understanding agents and environments.
+  - Applying reinforcement learning to decision-making tasks.
+
 > All exercises are implemented in a clean and beginner-friendly format to align with the book's style.
 
 ## 🛠️ Requirements
@@ -67,8 +79,9 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Created by **Marius Ciobanu**  
-📧 Email: mariusc0023@gmail.com  
+Created by **Marius Iacob**  
+📧 Email: mariusicob2347@gmail.com  
+🌐 Portfolio: [https://marius-portofolio.fly.dev/](https://marius-portofolio.fly.dev/)
 
 Feel free to reach out for collaboration or questions!
 
